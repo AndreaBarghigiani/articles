@@ -24,7 +24,7 @@ We have dropped the block altogether and used the operator that we want to execu
 
 > **Note:** In this case we used an operator but it'll be valid to use even any kind of method that you can use with the object you are iterating in.
 
-As you can see the `reduce` method have great potential and we can use it to simplify your code.
+As you can see the `reduce` method have great potential and we can use it to simplify our code.
 
 ### Resources
 Those notes are taken while following the [Ruby Blocks](https://pragmaticstudio.com/ruby-blocks) course at Pragmatic Studio.
