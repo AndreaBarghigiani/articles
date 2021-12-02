@@ -1,4 +1,4 @@
-## The `reduce` method in Ruby
+## The reduce method in Ruby
 
 The `reduce` method looks really similar to the JavaScript one, iterates over all the elements in an Array and return a single value based on the operation we do on them.
 
