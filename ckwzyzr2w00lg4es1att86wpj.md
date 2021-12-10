@@ -116,4 +116,8 @@ with_checking("level") { sensor.level > 3 }
 # Custom check for the sake of it
 with_checking("it's payday") { Time.now.day > 25 }
 ```
-The last, silly, check I've implemented here it has been added just to demonstrate that you can execute **any condition** you wish inside the block, the important part is that the answer you get will make sense :wink:
+The last, silly, check I've implemented here it has been added just to demonstrate that you can execute **any condition** you wish inside the block, the important part is that the answer you get will make sense 😉
+
+# Resources
+
+Those notes are taken while following the Ruby Blocks course at Pragmatic Studio.
