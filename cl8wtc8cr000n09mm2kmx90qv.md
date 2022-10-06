@@ -1,4 +1,4 @@
-## Why prefer the use of a collection over the loop
+## Why prefer the use of a collection over loop
 
 I was curious about this, generally speaking it was advised to me to prefer the use of `collection` instead of looping over a list of items. I tryed to take it for granted but the **why** question popped up from time to time.
 
